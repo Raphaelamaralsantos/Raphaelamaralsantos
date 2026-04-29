@@ -1,4 +1,4 @@
-#  Olá, eu sou o Rafael
+#  Olá, eu sou o Raphael 
 
 Estudante de Sistemas de Informação focado em desenvolvimento de software e construção de sistemas web.
 
